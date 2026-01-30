@@ -1,0 +1,7 @@
+{
+  "name": "Bingo Master - Ultimate Professional Edition",
+  "description": "A high-end, professional bingo platform featuring automated draws, real-time ranking, financial management (PIX/Withdrawals), admin panel, and TTS narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
